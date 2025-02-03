@@ -30,6 +30,6 @@ This project demonstrates my ability to work with real-world data, implement ana
 
 ## Contact
 
-For any questions or discussions, feel free to reach out via GitHub Issues or email.
+For any questions or discussions, feel free to reach out via GitHub Issues or email: veronika.analyst@gmail.com
 
 
